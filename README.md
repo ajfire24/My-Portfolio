@@ -36,7 +36,7 @@ Developed a Python simulation and scheduling algorithm to optimize data center c
 Developed an educational platform that gamifies financial literacy by rewarding users for completing lessons.
 
 ## Live Demo
-https://ajfire24.github.io/My-Portfolio/
+https://ashleyjoao.github.io/Build-your-portfolio/
 
 ## Contact
 
